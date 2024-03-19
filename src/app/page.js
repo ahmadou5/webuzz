@@ -5,10 +5,11 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen bg-black text-white flex-col items-center ">
+    <main className="flex min-h-screen bg-navBar flex-col items-center ">
       <Navbar2 />
       <Home2 />
      
+      <Footer />
     </main>
   );
 }
