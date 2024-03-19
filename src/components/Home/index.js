@@ -1,4 +1,6 @@
+import { Download } from "../Download"
 import { Features } from "../Features"
+import { FeedBack } from "../Feedbacks"
 import { Hero } from "../Hero"
 import { Pricing } from "../Pricing"
 
@@ -8,6 +10,8 @@ export const Home2 = () => {
      <Hero />
      <Features />
      <Pricing />
+     <FeedBack />
+     <Download />
    </div>
    )
 }

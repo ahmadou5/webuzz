@@ -15,7 +15,7 @@ export const Navbar2 = () => {
     return(
         
     <>
-    <nav className="w-full px-6 z-0 mt-8  fixed inset-x-0 top-2 flex justify-center items-center">
+    <nav className="lg:w-[100%] w-[100%] px-6 z-0 mt-8  fixed inset-x-0 top-2 flex justify-center items-center">
         <div className="w-full backdrop-blur-lg bg-clip-padding bg-opacity-60 md:w-880 bg-navBar p-4 rounded-full flex items-center">
           <p className="text-lg text-slate-200 ml-4 mr-4 font-medium">
             WeBuzz
