@@ -1,7 +1,7 @@
 export const Hero = () => {
   return(
   <div className="lg:w-[90%] h-auto lg:mt-[20px] mt-4 lg:mb-[170px] ml-auto mr-auto w-[97%]">
-    <div className="relative mt-0 flex place-items-center before:absolute before:h-[300px] before:w-full sm:before:w-[480px] before:-translate-x-1/2 before:rounded-full before:bg-gradient-radial before:from-white before:to-transparent before:blur-2xl before:content-[''] after:absolute after:-z-20 after:h-[180px] after:w-full sm:after:w-[240px] after:translate-x-1/3 after:bg-gradient-conic after:from-sky-200 after:via-blue-200 after:blur-2xl after:content-[''] before:dark:bg-gradient-to-br before:dark:from-transparent before:dark:to-yellow-700 before:dark:opacity-10 after:dark:from-[#b99530] after:dark:via-[#ffbb01] after:dark:opacity-40 before:lg:h-[360px] z-[-1]"></div>
+   
     <div className="flex flex-col ml-auto mr-auto lg:flex-row">
         <div className="w-[90%] mb-11 lg:mb-2 lg:w-[50%] py-4 px-4 h-[200px] lg:h-[500px] ml-auto mr-auto ">
            <div className="mt-[100px] text-center ml-auto mr-auto py-4 px-4">

@@ -12,7 +12,7 @@ export const Pricing = () => {
           </p>
         </div>
         <div className="py-4 px-6 mt-9 lg:flex  lg:h-[550px] h-auto">
-          <div className="w-[380px] mt-4 ml-auto mr-auto bg-navBar/40 h-[490px] rounded-2xl">
+          <div className="lg:w-[380px] w-[99%] mt-4 ml-auto mr-auto bg-navBar/40 h-[490px] rounded-2xl">
             <div className=" mt-10 h-[100px] py-5 px-5 ml-auto mr-auto  rounded-3xl w-[98%]">
               <p className="w-[29%] ml-auto  mr-auto text-center bg-navBar rounded-2xl">
                 Free
@@ -30,7 +30,7 @@ export const Pricing = () => {
                 <p className="mt-3 mb-3">Verification Bagde ❌</p>
             </div>
           </div>
-          <div className="w-[380px] mt-4 ml-auto mr-auto bg-navBar/40 h-[490px] rounded-2xl">
+          <div className="lg:w-[380px] w-[99%] mt-4 ml-auto mr-auto bg-navBar/40 h-[490px] rounded-2xl">
             <div className=" mt-10 h-[100px] py-5 px-5 ml-auto mr-auto  rounded-3xl w-[98%]">
               <p className="w-[29%] ml-auto  mr-auto text-center bg-navBar rounded-2xl">
                 Premuim
@@ -48,7 +48,7 @@ export const Pricing = () => {
                 <p className="mt-3 mb-3">Verification Bagde ❌</p>
             </div>
           </div>
-          <div className="w-[380px] mt-4 ml-auto mr-auto bg-navBar/40 h-[490px] rounded-2xl">
+          <div className="lg:w-[380px] w-[99%] mt-4 ml-auto mr-auto bg-navBar/40 h-[490px] rounded-2xl">
             <div className=" mt-10 h-[100px] py-5 px-5 ml-auto mr-auto  rounded-3xl w-[98%]">
               <p className="w-[29%] ml-auto  mr-auto text-center bg-navBar rounded-2xl">
                 Verified
