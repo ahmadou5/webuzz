@@ -30,7 +30,7 @@ export const Navbar2 = () => {
                 ))
             }
            {
-           <a className="ml-auto text-base text-textBase font-medium hover:text-slate-100 cursor-pointer border border-textBase px-2 py-1 rounded-xl hover:border-gray-100 duration-100 ease-in-out">Download</a>
+           <a href='https://amaar305.github.io/Webuzzapp/file/webuzz-app-updated.apk' download="MyExampleDoc"  className="ml-auto text-base text-textBase font-medium hover:text-slate-100 cursor-pointer border border-textBase px-2 py-1 rounded-xl hover:border-gray-100 duration-100 ease-in-out">Download</a>
            }
            
           </div>
